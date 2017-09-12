@@ -1,0 +1,12 @@
+An if statement is a section of code that allows a piece of code to work as long as the statement is true.
+if(1 + 2 == 3) Since the statement is true, whatever this script will run
+if(1 + 3 == 7) Since this statement is false, the script will not run
+if statements can be used with integers and variables
+if(num1 + num2 == value) if the variables are changed to make the statement true, then the script will run
+if(num1 + num2 == value) if the variables are changed to make the statement false, then the script will not run
+if statements can only be used inside of a function
+if statements are used when the scripter wants something to happen, but only if something else happens first
+if statements are often used with else clauses
+if statements can use addition, subtraction, multiplication, division, and greater than, equal to, less than, not equal to, greater than or equal to, and less then or equal to equations
+if(5 > 2) is a true statement so the script would run
+if(9 < 1) is a false statement so the script would not run
